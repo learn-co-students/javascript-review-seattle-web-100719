@@ -9,7 +9,7 @@ class DancersController < ApplicationController
   def show
     dancer = Dancer.find(params[:id])
 
-    render json: dancer
+    render json: { id: dancer.id, url: dancer.url, description: dancer.description, feedback: dancer.feedback }
   end
 
   def create

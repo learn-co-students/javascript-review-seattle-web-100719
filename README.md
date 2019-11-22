@@ -68,6 +68,7 @@ Do the usual Git stuff:
 
 To get started:
 1. `cd backend/`
-2. `rails db:seed`
-3. `rails s`
-4. If you're silly like me, you'll accidentally shut down your Rails server if you don't open a new Terminal tab in VS Code. So do that.
+2. `rails db:migrate`
+3. `rails db:seed`
+4. `rails s`
+5. If you're silly like me, you'll accidentally shut down your Rails server if you don't open a new Terminal tab in VS Code. So do that.
