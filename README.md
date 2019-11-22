@@ -77,3 +77,5 @@ To get started:
 Note: The first request after starting the server can be slow. I recommend making a GET request before class starts via fetch in the browser console. All subsequent requests will then be lightning fast. Like us, the server must warmup before exercise, I guess.
 
 A general solution is included in the main-solution branch
+
+[Video of project](https://youtu.be/4l18Lg7Houc)
