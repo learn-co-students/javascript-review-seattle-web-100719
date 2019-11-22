@@ -72,3 +72,6 @@ To get started:
 3. `rails db:seed`
 4. `rails s`
 5. If you're silly like me, you'll accidentally shut down your Rails server if you don't open a new Terminal tab in VS Code. So do that.
+6. Open index.html in your browser (it's in the root folder)
+
+A general solution is included in the main-solution branch
