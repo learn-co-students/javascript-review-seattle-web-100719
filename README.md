@@ -11,6 +11,7 @@ Let's improve our JavaScript skills by creating a web app where users can view a
 - Accessing, modifying, and adding elements to the DOM
 - Events
 - Fetching data from a database (GET)
+- Optimistic vs. pessimistic rendering
 - BONUS: Fetching data to a database (POST)
 
 ## MVP User Stories
@@ -18,7 +19,7 @@ A user can:
 - See a dancer dancing as the background image of a div
 - Read a description of the dancer
 - Leave feedback for the dancer via a form
-- See that feedback in its very own paragraph!
+- See that feedback in its very own paragraph! (optimistic rendering)
 
 ## BONUS User Stories
 A user can:
